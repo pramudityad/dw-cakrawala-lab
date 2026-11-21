@@ -1,0 +1,501 @@
+order_id,date,product,category,price,qty,customer_id,city,payment_method,discount
+TR001,2026-09-01,Headphone,Electronics,250000,2,CUS001,Jakarta,E-Wallet,10
+TR001,2026-09-01,Headphone,Electronics,250000,2,CUS001,Jakarta,E-Wallet,10
+TR002,02/09/2026,Kabel USB,Accessories,45000,,CUS013,Bogor,Bank Transfer,5
+TR003,2026-09-03,Mouse,Electronics,2500000,1,CUS035,Bandung,Bank Transfer,0
+TR004,03-09-2026,Keyboard,Electronics,-150000,1,CUS049,Surabaya,Virtual Account,0
+TR005,2026-09-04,headphone,Electronics,250000,1,CUS082,Jakarta,E-Wallet,15
+TR006,2026-09-27,Kabel USB,Accessories,45000,3,CUS085,Surabaya,Virtual Account,15
+TR007,2026-09-23,Keyboard,Electronics,150000,1,CUS041,Bekasi,E-Wallet,10
+TR008,2026-10-19,Headphone,Electronics,250000,2,CUS143,Surabaya,Bank Transfer,0
+TR009,2026-10-21,Speaker Bluetooth,Electronics,396000,1,CUS026,Yogyakarta,COD,0
+TR010,12-10-2026,Notebook,Stationery,47000,2,CUS048,Bandung,E-Wallet,0
+TR011,2026-09-11,Buku Gambar,Stationery,24000,1,CUS081,,Bank Transfer,5
+TR012,2026-09-01,Tas,Fashion,342000,1,CUS107,Denpasar,Bank Transfer,5
+TR013,2026-09-21,Mouse,Electronics,141000,2,CUS090,Yogyakarta,E-Wallet,10
+TR014,2026-10-09,Kotak Penyimpanan,Home & Living,162000,1,CUS081,Bekasi,E-Wallet,20
+TR015,2026-10-14,Tas,Fashion,322000,5,CUS129,Jakarta,Bank Transfer,0
+TR016,2026-10-27,Sticky Notes,Stationery,13000,1,CUS112,,Virtual Account,0
+TR017,2026-09-20,Topi,Fashion,104000,2,CUS032,Bandung,Bank Transfer,20
+TR018,2026-09-04,Lampu Meja,Home & Living,163000,2,CUS144,Yogyakarta,Bank Transfer,10
+TR019,09/10/2026,Mouse,Electronics,102000,2,CUS091,Jakarta,E-Wallet,0
+TR020,25/09/2026,Botol Minum,Home & Living,83000,1,CUS099,Jakarta,E-Wallet,0
+TR021,2026-10-16,Mouse,Electronics,139000,4,CUS170,,E-Wallet,5
+TR022,2026-09-02,Speaker Bluetooth,Electronics,295000,1,CUS006,Jakarta,E-Wallet,0
+TR023,2026-09-06,Power Bank,Electronics,395000,3,CUS152,Jakarta,E-Wallet,10
+TR024,2026-09-22,Topi,Fashion,86000,2,CUS068,Bandung,Virtual Account,5
+TR025,2026-10-01,Mug,Home & Living,40000,1,CUS063,Bandung,Bank Transfer,10
+TR026,2026-10-16,Keyboard,Electronics,305000,5,CUS103,Makassar,COD,0
+TR027,2026-09-24,Buku Gambar,Stationery,25000,,CUS052,Bogor,E-Wallet,10
+TR028,2026-09-20,Holder HP,Accessories,83000,1,CUS149,Makassar,E-Wallet,0
+TR029,15-10-2026,Tas,Fashion,399000,1,CUS134,Bekasi,Bank Transfer,0
+TR030,2026-09-09,Power Bank,Electronics,292000,2,CUS068,Bandung,Bank Transfer,20
+TR031,08-10-2026,Kabel USB,Accessories,1800000,1,CUS179,Bandung,Bank Transfer,5
+TR032,2026-10-13,Lampu Meja,Home & Living,252000,,CUS165,Denpasar,E-Wallet,0
+TR033,2026-09-20,Pulpen,Stationery,10000,1,CUS067,Yogyakarta,E-Wallet,15
+TR034,2026-09-19,Keyboard,Electronics,208000,1,CUS139,Denpasar,COD,0
+TR035,2026-10-12,Pulpen,Stationery,6000,1,CUS156,Bogor,E-Wallet,15
+TR036,2026-09-11,Kaos,Fashion,149000,2,CUS138,Bandung,Bank Transfer,5
+TR037,2026-10-03,Keyboard,Electronics,147000,2,CUS030,Jakarta,Virtual Account,15
+TR038,2026-09-14,Buku Gambar,Stationery,19000,1,CUS078,Bekasi,E-Wallet,0
+TR039,2026-10-26,Mouse,Electronics,122000,3,CUS028,Denpasar,Bank Transfer,0
+TR040,2026-10-29,Power Bank,Electronics,218000,1,CUS122,Makassar,E-Wallet,0
+TR041,23/09/2026,Kabel USB,Accessories,54000,1,CUS150,Bandung,,0
+TR042,2026-09-15,Mouse Pad,Accessories,44000,1,CUS170,Bekasi,,10
+TR043,2026-10-25,Smartphone,Electronics,4705000,,CUS169,Bekasi,Bank Transfer,5
+TR044,2026-09-27,Tas,Fashion,385000,3,CUS090,Yogyakarta,E-Wallet,0
+TR045,2026-09-28,Holder HP,Accessories,72000,,CUS033,Jakarta,Virtual Account,5
+TR046,2026-10-05,Buku Gambar,Stationery,27000,2,CUS038,Jakarta,Bank Transfer,20
+TR047,07/10/2026,Lampu Meja,Home & Living,134000,1,CUS076,Jakarta,E-Wallet,0
+TR048,2026-09-07,Notebook,Stationery,44000,2,CUS087,Bekasi,COD,20
+TR049,2026-10-19,Buku Gambar,Stationery,40000,1,CUS171,Bogor,Bank Transfer,5
+TR050,2026-09-01,Kabel USB,Accessories,58000,1,CUS045,Jakarta,Virtual Account,0
+TR051,2026-10-25,Botol Minum,Home & Living,97000,3,CUS122,Makassar,E-Wallet,0
+TR052,2026-09-21,Charger,Electronics,89000,1,CUS069,Bekasi,Bank Transfer,5
+TR053,2026-10-06,Speaker Bluetooth,Electronics,418000,2,CUS021,Surabaya,E-Wallet,0
+TR054,2026-10-31,Mouse,Electronics,122000,1,CUS057,Jakarta,E-Wallet,0
+TR055,2026-10-14,Power Bank,Electronics,296000,2,CUS134,Bekasi,Bank Transfer,0
+TR056,2026-10-17,Kaos,Fashion,76000,1,CUS141,Bekasi,Bank Transfer,20
+TR057,2026-09-23,Holder HP,Accessories,76000,1,CUS088,Bandung,E-Wallet,5
+TR058,02-10-2026,Smartphone,Electronics,3323000,1,CUS165,Denpasar,E-Wallet,15
+TR059,2026-10-24,Holder HP,Accessories,64000,2,CUS132,Surabaya,Bank Transfer,10
+TR060,13-10-2026,Sticky Notes,Stationery,26000,1,CUS166,Bandung,E-Wallet,15
+TR061,2026-10-04,Dompet,Fashion,156000,2,CUS131,,E-Wallet,10
+TR062,2026-10-26,Kabel USB,Accessories,36000,3,CUS144,Yogyakarta,Virtual Account,20
+TR063,11-10-2026,Topi,Fashion,87000,,CUS099,Jakarta,E-Wallet,0
+TR064,2026-10-25,Holder HP,Accessories,57000,1,CUS131,Bandung,E-Wallet,15
+TR065,2026-09-09,Speaker Bluetooth,Electronics,515000,2,CUS126,Denpasar,Virtual Account,5
+TR066,17-10-2026,Dompet,Fashion,137000,1,CUS158,Surabaya,Bank Transfer,10
+TR067,2026-10-22,Notebook,Stationery,1750000,3,CUS034,Bekasi,E-Wallet,0
+TR068,2026-10-31,Mug,Home & Living,44000,3,CUS077,Makassar,Bank Transfer,20
+TR069,2026-09-12,Notebook,Stationery,29000,,CUS044,Bekasi,,10
+TR070,02/09/2026,Kabel HDMI,Accessories,106000,1,CUS140,Yogyakarta,E-Wallet,15
+TR071,2026-09-10,Mouse,Electronics,153000,4,CUS105,Bekasi,Bank Transfer,10
+TR072,2026-10-08,Holder HP,Accessories,46000,3,CUS091,jakarta,Virtual Account,15
+TR073,2026-09-13,Kabel USB,Accessories,34000,3,CUS129,Jakarta,Bank Transfer,10
+TR045,2026-09-28,Holder HP,Accessories,72000,,CUS033,Jakarta,Virtual Account,5
+TR074,15/09/2026,Keyboard,Electronics,336000,2,CUS062,Jakarta,E-Wallet,5
+TR075,2026-09-30,Lampu Meja,Home & Living,226000,3,CUS109,Bekasi,Virtual Account,20
+TR076,2026-10-09,Kotak Penyimpanan,Home & Living,114000,1,CUS144,Yogyakarta,COD,0
+TR077,16-10-2026,Keyboard,Electronics,308000,2,CUS091,jakarta,E-Wallet,0
+TR078,2026-09-02,Charger,Electronics,111000,1,CUS110,Jakarta,Bank Transfer,15
+TR079,26-09-2026,Kotak Penyimpanan,Home & Living,102000,1,CUS094,Makassar,E-Wallet,15
+TR080,2026-09-07,Buku Gambar,Stationery,27000,3,CUS036,Surabaya,E-Wallet,20
+TR081,2026-09-04,Holder HP,Accessories,74000,4,CUS152,Jakarta,E-Wallet,5
+TR082,2026-09-30,Speaker Bluetooth,Electronics,435000,1,CUS119,Bandung,Virtual Account,10
+TR083,2026-09-19,Lampu Meja,Home & Living,129000,1,CUS071,Yogyakarta,E-Wallet,0
+TR084,2026-10-22,Kaos,Fashion,108000,2,CUS099,jakarta,E-Wallet,5
+TR085,2026-09-09,Mouse Pad,Accessories,30000,1,CUS082,Jakarta,E-Wallet,0
+TR086,2026-10-18,Tas,Fashion,176000,5,CUS012,Surabaya,,10
+TR087,2026-10-16,Notebook,Stationery,51000,1,CUS086,Bandung,COD,0
+TR088,2026-09-26,Notebook,Stationery,38000,1,CUS063,Bandung,Virtual Account,5
+TR089,2026-09-29,Headphone,Electronics,243000,1,CUS048,,Bank Transfer,5
+TR090,2026-10-31,Kabel USB,Accessories,47000,1,CUS128,Bandung,Virtual Account,10
+TR091,2026-09-21,Pulpen,Stationery,9000,1,CUS134,Bekasi,E-Wallet,10
+TR092,11-09-2026,headphone,Electronics,293000,4,CUS134,Bekasi,Bank Transfer,5
+TR093,2026-09-30,Charger,Electronics,84000,1,CUS044,Bekasi,Bank Transfer,0
+TR094,2026-09-16,Dompet,Fashion,138000,1,CUS002,Bekasi,Bank Transfer,15
+TR095,2026-09-17,Lampu Meja,Home & Living,235000,1,CUS022,Surabaya,COD,0
+TR096,2026-09-08,Buku Gambar,Stationery,34000,3,CUS144,Yogyakarta,E-Wallet,0
+TR097,2026-09-30,Topi,Fashion,125000,3,CUS178,Jakarta,E-Wallet,20
+TR098,2026-10-12,Topi,Fashion,113000,2,CUS049,Surabaya,E-Wallet,0
+TR099,2026-09-01,Keyboard,Electronics,162000,1,CUS053,Yogyakarta,E-Wallet,5
+TR100,2026-09-11,Speaker Bluetooth,Electronics,521000,1,CUS140,Yogyakarta,E-Wallet,10
+TR101,15/09/2026,Mouse Pad,Accessories,33000,1,CUS091,Jakarta,E-Wallet,0
+TR102,2026-09-29,Headphone,Electronics,261000,2,CUS023,Jakarta,Bank Transfer,0
+TR103,2026-09-26,Charger,Electronics,2200000,1,CUS087,Bekasi,E-Wallet,0
+TR104,2026-10-31,Mouse,Electronics,123000,2,CUS034,Bekasi,E-Wallet,0
+TR105,2026-10-14,Sticky Notes,Stationery,26000,3,CUS039,Surabaya,Bank Transfer,10
+TR106,2026-10-15,Mouse,Electronics,169000,1,CUS023,Jakarta,E-Wallet,10
+TR107,2026-10-08,Mouse Pad,Accessories,46000,1,CUS175,Bogor,Bank Transfer,0
+TR108,2026-10-14,Tas,Fashion,395000,2,CUS153,Jakarta,COD,0
+TR109,2026-09-22,Pulpen,Stationery,6000,4,CUS008,Bandung,Bank Transfer,5
+TR110,2026-10-09,Mouse,Electronics,151000,,CUS041,Bekasi,COD,5
+TR111,2026-09-20,Headphone,Electronics,184000,1,CUS136,Jakarta,COD,0
+TR112,11-10-2026,Kotak Penyimpanan,Home & Living,167000,2,CUS098,Makassar,E-Wallet,0
+TR113,2026-10-25,Charger,Electronics,105000,1,CUS018,Makassar,Bank Transfer,15
+TR114,2026-09-29,Notebook,Stationery,50000,2,CUS065,Bekasi,E-Wallet,0
+TR115,2026-10-06,Power Bank,Electronics,230000,1,CUS157,Bogor,Bank Transfer,10
+TR116,2026-09-15,Notebook,Stationery,47000,3,CUS104,Bekasi,E-Wallet,0
+TR117,22/09/2026,Mouse,Electronics,126000,2,CUS154,Yogyakarta,E-Wallet,10
+TR089,2026-09-29,Headphone,Electronics,243000,1,CUS048,,Bank Transfer,5
+TR118,2026-10-15,Power Bank,Electronics,291000,1,CUS097,Yogyakarta,Virtual Account,5
+TR119,2026-10-23,Keyboard,Electronics,210000,1,CUS160,Bekasi,Bank Transfer,5
+TR120,2026-10-11,Kabel USB,Accessories,-45000,1,CUS097,Yogyakarta,Bank Transfer,5
+TR121,2026-10-06,Headphone,Electronics,292000,1,CUS087,Bekasi,E-Wallet,30
+TR122,2026-09-19,Kotak Penyimpanan,Home & Living,120000,,CUS131,Bandung,Virtual Account,10
+TR123,2026-10-04,Kabel USB,Accessories,62000,1,CUS100,Yogyakarta,E-Wallet,5
+TR124,2026-10-06,Kotak Penyimpanan,Home & Living,159000,2,CUS063,Bandung,E-Wallet,10
+TR125,2026-09-12,Tas,Fashion,213000,1,CUS056,Jakarta,E-Wallet,30
+TR126,02/09/2026,Keyboard,Electronics,250000,1,CUS096,Bandung,COD,0
+TR127,2026-10-11,Kabel USB,Accessories,46000,1,CUS089,Bekasi,COD,0
+TR128,07/09/2026,Charger,Electronics,104000,3,CUS001,,,10
+TR129,2026-09-07,Holder HP,Accessories,66000,3,CUS165,Denpasar,Bank Transfer,15
+TR130,2026-09-08,Tas,Fashion,263000,1,CUS047,Surabaya,Bank Transfer,5
+TR131,21/10/2026,Topi,Fashion,115000,5,CUS141,Bekasi,Virtual Account,0
+TR132,2026-09-29,headphone,Electronics,272000,1,CUS017,Jakarta,E-Wallet,5
+TR133,2026-09-28,Mouse,Electronics,90000,2,CUS047,,Bank Transfer,10
+TR134,2026-09-01,Charger,Electronics,88000,3,CUS044,Bekasi,E-Wallet,15
+TR135,2026-10-15,Speaker Bluetooth,Electronics,480000,1,CUS027,Makassar,COD,0
+TR136,2026-09-17,Tas,Fashion,206000,1,CUS159,Jakarta,Virtual Account,15
+TR137,2026-10-04,Power Bank,Electronics,331000,1,CUS155,Jakarta,,0
+TR138,2026-09-27,Kotak Penyimpanan,Home & Living,120000,2,CUS075,,Virtual Account,0
+TR139,2026-09-11,Kaos,Fashion,119000,1,CUS114,Surabaya,E-Wallet,20
+TR140,2026-09-01,Power Bank,Electronics,366000,4,CUS064,Bekasi,E-Wallet,5
+TR141,2026-09-08,Laptop,Electronics,8232000,1,CUS164,Jakarta,E-Wallet,5
+TR142,2026-10-26,Kabel USB,Accessories,37000,3,CUS096,Bandung,E-Wallet,10
+TR143,01-09-2026,Botol Minum,Home & Living,94000,2,CUS092,Bekasi,E-Wallet,5
+TR144,2026-09-27,Speaker Bluetooth,Electronics,375000,1,CUS093,Bekasi,E-Wallet,15
+TR145,2026-09-08,Power Bank,Electronics,413000,,CUS014,Bandung,E-Wallet,5
+TR146,2026-09-01,Kaos,Fashion,143000,1,CUS066,Jakarta,Bank Transfer,0
+TR147,2026-10-05,Headphone,Electronics,259000,1,CUS159,Jakarta,E-Wallet,10
+TR148,2026-09-07,Kotak Penyimpanan,Home & Living,79000,3,CUS033,Jakarta,Bank Transfer,10
+TR149,2026-10-08,Headphone,Electronics,219000,3,CUS019,Bekasi,Virtual Account,0
+TR150,2026-10-19,Kabel HDMI,Accessories,121000,2,CUS007,Bandung,Bank Transfer,20
+TR151,2026-09-13,Keyboard,Electronics,6500000,4,CUS113,Jakarta,E-Wallet,0
+TR152,2026-10-09,Mug,Home & Living,103000,1,CUS043,Bandung,Bank Transfer,5
+TR153,11-10-2026,Botol Minum,Home & Living,112000,2,CUS113,,Virtual Account,0
+TR154,2026-09-13,Pulpen,Stationery,13000,1,CUS111,Jakarta,Virtual Account,10
+TR155,2026-09-19,Keyboard,Electronics,213000,1,CUS177,Yogyakarta,Bank Transfer,5
+TR156,2026-10-25,Mouse,Electronics,127000,8,CUS020,Makassar,E-Wallet,10
+TR157,2026-09-17,Speaker Bluetooth,Electronics,313000,,CUS088,,E-Wallet,0
+TR158,2026-10-06,Lampu Meja,Home & Living,199000,1,CUS119,Bandung,Virtual Account,0
+TR159,2026-09-08,Keyboard,Electronics,258000,,CUS175,Bogor,E-Wallet,5
+TR160,2026-10-01,Keyboard,Electronics,309000,1,CUS093,Bekasi,E-Wallet,0
+TR161,2026-09-04,Dompet,Fashion,176000,5,CUS137,Jakarta,E-Wallet,20
+TR133,2026-09-28,Mouse,Electronics,90000,2,CUS047,,Bank Transfer,10
+TR162,2026-10-29,Notebook,Stationery,38000,1,CUS009,Makassar,Bank Transfer,5
+TR163,14/09/2026,Sticky Notes,Stationery,29000,1,CUS027,Makassar,Bank Transfer,10
+TR164,2026-09-20,Kabel HDMI,Accessories,98000,1,CUS073,Bandung,COD,20
+TR165,2026-09-06,Headphone,Electronics,211000,3,CUS112,Bekasi,E-Wallet,20
+TR166,2026-09-02,Headphone,Electronics,399000,2,CUS052,Bogor,Bank Transfer,0
+TR167,2026-09-22,Dompet,Fashion,182000,1,CUS175,Bogor,,0
+TR168,2026-10-30,Buku Gambar,Stationery,29000,,CUS127,Surabaya,E-Wallet,0
+TR169,2026-10-05,Mug,Home & Living,89000,4,CUS052,Bogor,E-Wallet,10
+TR170,2026-10-11,Sticky Notes,Stationery,20000,2,CUS021,Surabaya,Virtual Account,0
+TR171,09/10/2026,Holder HP,Accessories,77000,1,CUS165,,Bank Transfer,10
+TR172,2026-10-26,Kabel USB,Accessories,51000,1,CUS166,Bandung,Bank Transfer,0
+TR173,2026-09-14,Kabel HDMI,Accessories,107000,1,CUS072,Denpasar,E-Wallet,0
+TR174,2026-09-12,Pulpen,Stationery,11000,,CUS090,,Virtual Account,10
+TR175,12/09/2026,Sticky Notes,Stationery,22000,1,CUS078,Bekasi,E-Wallet,5
+TR176,26/09/2026,Kabel HDMI,Accessories,96000,1,CUS023,Jakarta,E-Wallet,0
+TR177,17/09/2026,Lampu Meja,Home & Living,189000,2,CUS126,Denpasar,,0
+TR178,2026-10-06,Tas,Fashion,333000,1,CUS085,Surabaya,Bank Transfer,0
+TR179,2026-10-30,Mouse,Electronics,108000,1,CUS058,Jakarta,E-Wallet,15
+TR180,2026-10-15,Headphone,Electronics,247000,1,CUS075,Surabaya,Bank Transfer,15
+TR181,2026-10-19,Pulpen,Stationery,10000,1,CUS018,Makassar,E-Wallet,5
+TR182,2026-10-14,Power Bank,Electronics,212000,1,CUS179,Bandung,Virtual Account,10
+TR183,29-10-2026,Mouse,Electronics,193000,1,CUS148,Bogor,Bank Transfer,10
+TR184,07/10/2026,Speaker Bluetooth,Electronics,434000,4,CUS044,Bekasi,Virtual Account,0
+TR185,2026-10-20,Dompet,Fashion,170000,1,CUS020,Makassar,Bank Transfer,0
+TR186,2026-10-10,Headphone,Electronics,262000,1,CUS024,Jakarta,Virtual Account,10
+TR187,2026-10-27,Pulpen,Stationery,5000,1,CUS015,Jakarta,Virtual Account,10
+TR188,04/09/2026,Kotak Penyimpanan,Home & Living,71000,,CUS126,Denpasar,E-Wallet,0
+TR189,2026-09-10,Pulpen,Stationery,9000,1,CUS153,Jakarta,COD,0
+TR190,04-10-2026,Holder HP,Accessories,56000,5,CUS080,Yogyakarta,E-Wallet,10
+TR191,2026-10-16,Notebook,Stationery,28000,1,CUS108,Makassar,Bank Transfer,0
+TR192,2026-09-01,Kabel USB,Accessories,44000,1,CUS021,Surabaya,Bank Transfer,0
+TR193,2026-10-11,Headphone,Electronics,344000,1,CUS002,Bekasi,,5
+TR194,2026-10-27,Kabel USB,Accessories,52000,1,CUS023,Jakarta,Bank Transfer,20
+TR195,2026-09-06,Keyboard,Electronics,266000,3,CUS012,Surabaya,Bank Transfer,5
+TR196,2026-10-20,Mouse Pad,Accessories,36000,2,CUS039,Surabaya,Virtual Account,5
+TR197,2026-10-17,Tas,Fashion,344000,1,CUS155,Jakarta,Virtual Account,0
+TR198,2026-09-13,Botol Minum,Home & Living,91000,1,CUS049,Surabaya,Virtual Account,30
+TR199,2026-09-08,Notebook,Stationery,28000,1,CUS108,Makassar,COD,0
+TR200,2026-09-07,Botol Minum,Home & Living,118000,4,CUS154,Yogyakarta,COD,20
+TR201,2026-09-21,Mug,Home & Living,68000,1,CUS088,Bandung,,0
+TR202,07/09/2026,Kabel USB,Accessories,60000,1,CUS085,Surabaya,E-Wallet,15
+TR203,2026-10-08,Keyboard,Electronics,361000,1,CUS082,Jakarta,Bank Transfer,10
+TR204,2026-10-14,Mouse,Electronics,101000,2,CUS176,Jakarta,E-Wallet,0
+TR205,2026-10-22,Headphone,Electronics,8500000,1,CUS102,Surabaya,Virtual Account,10
+TR177,17/09/2026,Lampu Meja,Home & Living,189000,2,CUS126,Denpasar,,0
+TR206,2026-09-01,Dompet,Fashion,185000,1,CUS045,Jakarta,COD,20
+TR207,2026-09-10,Notebook,Stationery,34000,1,CUS162,Jakarta,Bank Transfer,5
+TR208,2026-09-02,Lampu Meja,Home & Living,243000,3,CUS178,Jakarta,,10
+TR209,2026-10-27,Notebook,Stationery,25000,8,CUS016,,Bank Transfer,30
+TR210,2026-09-20,Botol Minum,Home & Living,93000,1,CUS003,Bekasi,Bank Transfer,20
+TR211,2026-10-18,Headphone,Electronics,219000,2,CUS060,Surabaya,E-Wallet,0
+TR212,2026-10-17,Botol Minum,Home & Living,119000,4,CUS112,Bekasi,COD,5
+TR213,26/09/2026,Kaos,Fashion,125000,2,CUS120,Yogyakarta,E-Wallet,0
+TR214,2026-09-07,Notebook,Stationery,41000,1,CUS161,Bogor,Bank Transfer,20
+TR215,2026-09-11,Kabel USB,Accessories,45000,1,CUS006,Jakarta,E-Wallet,30
+TR216,2026-09-14,Notebook,Stationery,36000,1,CUS086,Bandung,Bank Transfer,0
+TR217,2026-09-03,Kabel USB,Accessories,43000,1,CUS083,Jakarta,Virtual Account,10
+TR218,2026-09-28,Mouse,Electronics,158000,1,CUS014,Bandung,COD,5
+TR219,2026-09-05,Headphone,Electronics,314000,4,CUS122,Makassar,Bank Transfer,15
+TR220,24-09-2026,Tas,Fashion,242000,1,CUS162,Jakarta,E-Wallet,5
+TR221,2026-10-05,Botol Minum,Home & Living,93000,1,CUS105,Bekasi,Bank Transfer,0
+TR222,29-10-2026,Mouse,Electronics,95000,2,CUS050,Yogyakarta,,0
+TR223,2026-09-01,headphone,Electronics,220000,1,CUS041,Bekasi,Virtual Account,0
+TR224,2026-09-17,Lampu Meja,Home & Living,136000,3,CUS167,Makassar,Virtual Account,30
+TR225,2026-09-09,Power Bank,Electronics,296000,3,CUS136,Jakarta,COD,5
+TR226,2026-10-22,Kotak Penyimpanan,Home & Living,147000,1,CUS096,Bandung,,10
+TR227,22/10/2026,Keyboard,Electronics,381000,3,CUS180,Makassar,COD,10
+TR228,30-09-2026,Charger,Electronics,137000,1,CUS137,Jakarta,Bank Transfer,10
+TR229,2026-10-24,Kabel USB,Accessories,57000,,CUS074,,,0
+TR230,2026-09-28,Keyboard,Electronics,181000,1,CUS115,Bogor,COD,10
+TR231,27/10/2026,Keyboard,Electronics,324000,1,CUS161,Bogor,Bank Transfer,10
+TR232,2026-09-06,Kabel USB,Accessories,35000,1,CUS120,Yogyakarta,Bank Transfer,10
+TR233,2026-10-07,Mug,Home & Living,63000,1,CUS073,Bandung,COD,0
+TR234,2026-10-15,Kabel HDMI,Accessories,92000,1,CUS068,Bandung,Bank Transfer,5
+TR235,2026-09-25,Sticky Notes,Stationery,22000,1,CUS043,Bandung,E-Wallet,0
+TR236,2026-09-19,Kotak Penyimpanan,Home & Living,162000,1,CUS103,Makassar,E-Wallet,10
+TR237,2026-09-30,Sticky Notes,Stationery,13000,1,CUS063,Bandung,Bank Transfer,10
+TR238,2026-09-25,Sticky Notes,Stationery,27000,5,CUS108,Makassar,COD,5
+TR239,2026-09-23,Kabel USB,Accessories,48000,,CUS098,Makassar,Virtual Account,10
+TR240,2026-10-13,Mouse Pad,Accessories,51000,4,CUS012,Surabaya,Bank Transfer,5
+TR241,2026-10-05,Sticky Notes,Stationery,12000,3,CUS161,Bogor,E-Wallet,5
+TR242,02/10/2026,Notebook,Stationery,63000,1,CUS158,Surabaya,Bank Transfer,15
+TR243,2026-10-13,Mouse Pad,Accessories,62000,1,CUS105,Bekasi,Bank Transfer,10
+TR244,2026-09-02,Mouse,Electronics,175000,4,CUS127,Surabaya,E-Wallet,15
+TR245,2026-10-04,Topi,Fashion,66000,,CUS159,Jakarta,Bank Transfer,5
+TR246,2026-09-18,Keyboard,Electronics,293000,3,CUS040,Bogor,Bank Transfer,15
+TR247,2026-09-18,Pulpen,Stationery,9000,1,CUS099,Jakarta,E-Wallet,0
+TR248,2026-10-09,Notebook,Stationery,54000,1,CUS115,Bogor,Bank Transfer,10
+TR249,2026-09-20,Buku Gambar,Stationery,23000,1,CUS075,Surabaya,Virtual Account,20
+TR221,2026-10-05,Botol Minum,Home & Living,93000,1,CUS105,Bekasi,Bank Transfer,0
+TR250,26/10/2026,Kabel USB,Accessories,38000,1,CUS090,Yogyakarta,E-Wallet,10
+TR251,2026-09-05,Headphone,Electronics,238000,,CUS044,Bekasi,E-Wallet,5
+TR252,2026-09-30,Kabel HDMI,Accessories,104000,3,CUS043,Bandung,Bank Transfer,0
+TR253,2026-09-18,Pulpen,Stationery,8000,,CUS145,,,5
+TR254,2026-10-11,Headphone,Electronics,384000,2,CUS033,Jakarta,E-Wallet,0
+TR255,2026-09-22,Keyboard,Electronics,245000,1,CUS044,Bekasi,E-Wallet,10
+TR256,26-09-2026,Keyboard,Electronics,171000,1,CUS179,Bandung,E-Wallet,5
+TR257,21-09-2026,Mouse,Electronics,3200000,1,CUS067,Yogyakarta,Virtual Account,0
+TR258,2026-09-27,Kabel USB,Accessories,59000,,CUS074,Bandung,COD,5
+TR259,22/09/2026,Kabel USB,Accessories,49000,,CUS073,,,0
+TR260,2026-09-08,Kotak Penyimpanan,Home & Living,135000,4,CUS083,Jakarta,E-Wallet,20
+TR261,2026-10-22,Mouse,Electronics,167000,3,CUS017,Jakarta,E-Wallet,0
+TR262,28/10/2026,Notebook,Stationery,40000,1,CUS051,Jakarta,Virtual Account,0
+TR263,2026-10-30,Kabel USB,Accessories,49000,2,CUS180,Makassar,Bank Transfer,30
+TR264,2026-10-16,Headphone,Electronics,221000,4,CUS087,Bekasi,Bank Transfer,0
+TR265,2026-10-30,Kabel USB,Accessories,44000,1,CUS091,Jakarta,Virtual Account,0
+TR266,04-09-2026,Kotak Penyimpanan,Home & Living,90000,2,CUS018,Makassar,E-Wallet,10
+TR267,2026-10-22,Pulpen,Stationery,14000,3,CUS157,Bogor,COD,15
+TR268,2026-09-19,Lampu Meja,Home & Living,179000,2,CUS016,Bandung,E-Wallet,15
+TR269,2026-10-11,Sticky Notes,Stationery,16000,1,CUS125,Surabaya,E-Wallet,10
+TR270,2026-09-27,Pulpen,Stationery,11000,1,CUS025,Denpasar,COD,0
+TR271,2026-09-01,Speaker Bluetooth,Electronics,332000,1,CUS131,Bandung,Bank Transfer,10
+TR272,2026-10-04,Headphone,Electronics,260000,3,CUS094,Makassar,COD,10
+TR273,2026-10-05,Pulpen,Stationery,13000,1,CUS047,Surabaya,COD,5
+TR274,2026-10-16,Dompet,Fashion,177000,1,CUS108,Makassar,Bank Transfer,5
+TR275,2026-09-02,Mouse,Electronics,125000,1,CUS093,Bekasi,Virtual Account,0
+TR276,2026-10-13,Mug,Home & Living,75000,1,CUS139,Denpasar,Bank Transfer,0
+TR277,2026-10-30,Mouse,Electronics,146000,1,CUS021,Surabaya,Virtual Account,5
+TR278,14/10/2026,Holder HP,Accessories,67000,3,CUS050,Yogyakarta,E-Wallet,10
+TR279,20-09-2026,Mug,Home & Living,48000,2,CUS003,Bekasi,Virtual Account,0
+TR280,2026-10-12,Lampu Meja,Home & Living,218000,,CUS060,Surabaya,Bank Transfer,20
+TR281,2026-09-28,Buku Gambar,Stationery,30000,4,CUS081,Bekasi,Bank Transfer,0
+TR282,2026-10-31,Sticky Notes,Stationery,22000,1,CUS093,,E-Wallet,15
+TR283,2026-09-25,Mouse Pad,Accessories,60000,1,CUS090,Yogyakarta,Bank Transfer,5
+TR284,26/09/2026,Topi,Fashion,75000,1,CUS100,Yogyakarta,Bank Transfer,0
+TR285,2026-10-03,Dompet,Fashion,200000,3,CUS048,Bandung,E-Wallet,0
+TR286,2026-10-22,Dompet,Fashion,180000,1,CUS006,jakarta,E-Wallet,10
+TR287,2026-10-05,Pulpen,Stationery,13000,1,CUS114,Surabaya,E-Wallet,10
+TR288,2026-10-08,Mouse Pad,Accessories,42000,5,CUS148,Bogor,Virtual Account,0
+TR289,2026-09-23,Botol Minum,Home & Living,93000,1,CUS166,Bandung,E-Wallet,5
+TR290,12/10/2026,Pulpen,Stationery,10000,1,CUS075,Surabaya,COD,10
+TR291,2026-10-11,Mug,Home & Living,77000,1,CUS180,Makassar,Bank Transfer,10
+TR292,2026-09-26,Mouse Pad,Accessories,45000,3,CUS018,Makassar,,5
+TR293,2026-09-17,Lampu Meja,Home & Living,123000,1,CUS116,Bekasi,COD,5
+TR265,2026-10-30,Kabel USB,Accessories,44000,1,CUS091,Jakarta,Virtual Account,0
+TR294,2026-09-01,Speaker Bluetooth,Electronics,489000,1,CUS036,Surabaya,Bank Transfer,0
+TR295,2026-09-30,Mouse,Electronics,91000,1,CUS084,Jakarta,Bank Transfer,0
+TR296,15/10/2026,Sticky Notes,Stationery,19000,1,CUS087,Bekasi,E-Wallet,0
+TR297,2026-10-08,Mouse,Electronics,191000,3,CUS099,Jakarta,Bank Transfer,10
+TR298,09/09/2026,Pulpen,Stationery,18000,1,CUS049,Surabaya,COD,15
+TR299,14-09-2026,Speaker Bluetooth,Electronics,466000,1,CUS071,Yogyakarta,Bank Transfer,5
+TR300,2026-09-13,Charger,Electronics,124000,1,CUS116,Bekasi,E-Wallet,15
+TR301,2026-09-20,Lampu Meja,Home & Living,4100000,5,CUS020,Makassar,Bank Transfer,0
+TR302,09-09-2026,Keyboard,Electronics,308000,5,CUS095,Makassar,COD,15
+TR303,2026-09-15,Tas,Fashion,286000,1,CUS030,Jakarta,E-Wallet,0
+TR304,2026-10-23,Tas,Fashion,173000,1,CUS058,Jakarta,Virtual Account,0
+TR305,2026-10-24,Lampu Meja,Home & Living,160000,1,CUS053,Yogyakarta,Bank Transfer,0
+TR306,2026-10-28,Kabel USB,Accessories,37000,2,CUS132,Surabaya,COD,0
+TR307,2026-10-22,Power Bank,Electronics,305000,1,CUS086,Bandung,COD,20
+TR308,2026-09-25,Mouse,Electronics,164000,1,CUS138,Bandung,Virtual Account,5
+TR309,2026-09-02,Dompet,Fashion,135000,3,CUS039,Surabaya,Virtual Account,10
+TR310,23/10/2026,Kabel USB,Accessories,56000,,CUS021,,,10
+TR311,2026-09-22,Keyboard,Electronics,361000,1,CUS160,Bekasi,E-Wallet,20
+TR312,2026-10-22,Kotak Penyimpanan,Home & Living,80000,1,CUS121,Jakarta,COD,5
+TR313,2026-10-18,Lampu Meja,Home & Living,210000,,CUS091,Jakarta,,5
+TR314,2026-09-15,Mouse,Electronics,169000,1,CUS131,Bandung,COD,10
+TR315,21-09-2026,Holder HP,Accessories,62000,3,CUS099,Jakarta,COD,5
+TR316,2026-10-04,Keyboard,Electronics,187000,1,CUS069,Bekasi,COD,0
+TR317,17/09/2026,Pulpen,Stationery,8000,2,CUS088,Bandung,Bank Transfer,10
+TR318,2026-09-14,Keyboard,Electronics,199000,1,CUS069,Bekasi,COD,15
+TR319,2026-09-28,Botol Minum,Home & Living,109000,1,CUS178,Jakarta,E-Wallet,0
+TR320,2026-09-20,Holder HP,Accessories,62000,2,CUS085,Surabaya,Bank Transfer,0
+TR321,2026-09-06,Mouse Pad,Accessories,44000,2,CUS090,Yogyakarta,COD,5
+TR322,2026-10-10,Kaos,Fashion,119000,2,CUS093,Bekasi,Virtual Account,15
+TR323,2026-09-06,Botol Minum,Home & Living,127000,1,CUS139,Denpasar,,0
+TR324,2026-10-06,Kabel USB,Accessories,49000,1,CUS177,Yogyakarta,Bank Transfer,0
+TR325,2026-10-03,Kabel USB,Accessories,55000,1,CUS106,Denpasar,E-Wallet,15
+TR326,14-10-2026,Headphone,Electronics,317000,3,CUS030,Jakarta,E-Wallet,15
+TR327,2026-09-10,Tas,Fashion,284000,1,CUS030,Jakarta,E-Wallet,10
+TR328,2026-10-01,Kaos,Fashion,88000,1,CUS088,Bandung,Bank Transfer,0
+TR329,2026-09-01,Pulpen,Stationery,9000,2,CUS129,Jakarta,E-Wallet,20
+TR330,2026-09-18,Holder HP,Accessories,58000,3,CUS108,Makassar,E-Wallet,5
+TR331,20-10-2026,Topi,Fashion,81000,1,CUS142,,Bank Transfer,0
+TR332,2026-09-26,Notebook,Stationery,28000,1,CUS041,Bekasi,E-Wallet,0
+TR333,2026-09-10,Mouse,Electronics,-95000,3,CUS083,Jakarta,E-Wallet,10
+TR334,2026-10-13,Mouse Pad,Accessories,49000,,CUS092,Bekasi,Bank Transfer,5
+TR335,2026-10-04,Kabel USB,Accessories,50000,4,CUS023,Jakarta,Virtual Account,10
+TR336,2026-10-23,Botol Minum,Home & Living,73000,1,CUS057,Jakarta,E-Wallet,0
+TR337,2026-09-07,Kaos,Fashion,103000,1,CUS155,Jakarta,Bank Transfer,5
+TR309,2026-09-02,Dompet,Fashion,135000,3,CUS039,Surabaya,Virtual Account,10
+TR338,2026-09-04,Headphone,Electronics,397000,1,CUS100,Yogyakarta,,15
+TR339,2026-10-30,Topi,Fashion,76000,,CUS069,Bekasi,E-Wallet,10
+TR340,20-10-2026,Mouse Pad,Accessories,51000,4,CUS171,Bogor,E-Wallet,5
+TR341,2026-10-27,Kabel HDMI,Accessories,77000,1,CUS075,Surabaya,E-Wallet,30
+TR342,2026-09-03,Botol Minum,Home & Living,129000,1,CUS097,Yogyakarta,E-Wallet,0
+TR343,2026-09-18,Kabel HDMI,Accessories,89000,1,CUS118,Jakarta,COD,5
+TR344,2026-09-30,Mug,Home & Living,57000,1,CUS049,Surabaya,E-Wallet,0
+TR345,2026-09-01,Topi,Fashion,80000,5,CUS049,Surabaya,Virtual Account,0
+TR346,2026-10-24,Mouse,Electronics,188000,1,CUS031,Bogor,Virtual Account,0
+TR347,2026-09-21,Holder HP,Accessories,55000,1,CUS014,Bandung,E-Wallet,20
+TR348,2026-09-12,Power Bank,Electronics,217000,1,CUS056,Jakarta,E-Wallet,5
+TR349,2026-09-17,Holder HP,Accessories,79000,2,CUS074,Bandung,E-Wallet,30
+TR350,27/09/2026,Mug,Home & Living,49000,2,CUS060,Surabaya,E-Wallet,15
+TR351,11-09-2026,Tas,Fashion,398000,,CUS176,,,10
+TR352,20/09/2026,Notebook,Stationery,35000,2,CUS113,,Bank Transfer,5
+TR353,2026-09-04,Headphone,Electronics,376000,2,CUS036,Surabaya,Bank Transfer,5
+TR354,2026-09-27,Keyboard,Electronics,268000,1,CUS054,Bekasi,E-Wallet,20
+TR355,2026-10-08,Kotak Penyimpanan,Home & Living,82000,2,CUS097,Yogyakarta,Virtual Account,0
+TR356,2026-10-07,Speaker Bluetooth,Electronics,399000,1,CUS026,Yogyakarta,Bank Transfer,20
+TR357,2026-10-07,Kotak Penyimpanan,Home & Living,125000,2,CUS121,Jakarta,COD,5
+TR358,2026-09-20,Kotak Penyimpanan,Home & Living,155000,1,CUS035,Bandung,E-Wallet,0
+TR359,2026-09-20,Speaker Bluetooth,Electronics,284000,2,CUS142,Jakarta,Virtual Account,10
+TR360,2026-10-21,Mouse Pad,Accessories,52000,5,CUS106,Denpasar,E-Wallet,5
+TR361,2026-10-27,Headphone,Electronics,239000,3,CUS127,Surabaya,Bank Transfer,20
+TR362,2026-09-03,Kabel USB,Accessories,37000,1,CUS109,Bekasi,COD,10
+TR363,2026-10-15,Kabel HDMI,Accessories,86000,2,CUS029,Bekasi,Bank Transfer,5
+TR364,2026-10-23,Lampu Meja,Home & Living,230000,1,CUS105,Bekasi,Bank Transfer,5
+TR365,2026-10-07,Speaker Bluetooth,Electronics,465000,1,CUS172,Bandung,,0
+TR366,2026-10-15,Keyboard,Electronics,283000,1,CUS100,Yogyakarta,E-Wallet,0
+TR367,2026-10-06,Pulpen,Stationery,650000,3,CUS116,Bekasi,Virtual Account,0
+TR368,2026-10-06,Pulpen,Stationery,11000,2,CUS034,Bekasi,,15
+TR369,2026-09-09,Tas,Fashion,323000,1,CUS033,jakarta,E-Wallet,20
+TR370,06-09-2026,Kotak Penyimpanan,Home & Living,174000,4,CUS084,Jakarta,E-Wallet,5
+TR371,2026-10-06,Headphone,Electronics,236000,1,CUS054,Bekasi,E-Wallet,15
+TR372,2026-10-10,Kabel USB,Accessories,47000,3,CUS154,Yogyakarta,E-Wallet,20
+TR373,12/09/2026,Mouse,Electronics,155000,1,CUS112,Bekasi,Bank Transfer,10
+TR374,2026-09-19,Headphone,Electronics,364000,1,CUS048,Bandung,E-Wallet,0
+TR375,2026-10-10,Headphone,Electronics,204000,1,CUS180,Makassar,E-Wallet,15
+TR376,2026-09-20,Holder HP,Accessories,94000,1,CUS116,Bekasi,E-Wallet,0
+TR377,2026-09-03,Notebook,Stationery,23000,1,CUS026,Yogyakarta,Bank Transfer,0
+TR378,2026-09-24,Kaos,Fashion,89000,3,CUS111,Jakarta,COD,5
+TR379,2026-10-02,Kaos,Fashion,80000,3,CUS061,Yogyakarta,Bank Transfer,15
+TR380,2026-10-30,Lampu Meja,Home & Living,178000,3,CUS166,Bandung,,0
+TR381,2026-09-26,Buku Gambar,Stationery,24000,1,CUS018,Makassar,E-Wallet,0
+TR382,2026-09-29,Pulpen,Stationery,14000,1,CUS049,Surabaya,Virtual Account,0
+TR383,2026-10-31,Mouse,Electronics,106000,2,CUS047,,Virtual Account,5
+TR384,2026-10-12,Kabel HDMI,Accessories,83000,1,CUS003,Bekasi,E-Wallet,10
+TR385,2026-10-06,Pulpen,Stationery,9000,1,CUS039,Surabaya,COD,0
+TR386,2026-09-17,Mug,Home & Living,83000,1,CUS023,Jakarta,E-Wallet,0
+TR387,09/09/2026,Topi,Fashion,82000,1,CUS180,Makassar,Bank Transfer,10
+TR388,2026-10-13,Lampu Meja,Home & Living,134000,,CUS099,,Virtual Account,0
+TR389,2026-10-03,Keyboard,Electronics,368000,2,CUS165,Denpasar,Bank Transfer,0
+TR390,2026-09-14,Mouse,Electronics,207000,3,CUS049,Surabaya,Bank Transfer,5
+TR391,2026-09-19,headphone,Electronics,205000,2,CUS146,Yogyakarta,Bank Transfer,0
+TR353,2026-09-04,Headphone,Electronics,376000,2,CUS036,Surabaya,Bank Transfer,5
+TR392,2026-09-16,Keyboard,Electronics,177000,1,CUS072,Denpasar,Bank Transfer,20
+TR393,2026-10-31,Notebook,Stationery,30000,3,CUS004,Yogyakarta,COD,0
+TR394,2026-10-19,Notebook,Stationery,35000,2,CUS145,Makassar,COD,5
+TR395,2026-09-13,Topi,Fashion,108000,1,CUS084,Jakarta,Virtual Account,5
+TR396,2026-10-20,Dompet,Fashion,188000,1,CUS027,Makassar,Bank Transfer,10
+TR397,17-09-2026,Notebook,Stationery,40000,1,CUS084,Jakarta,Virtual Account,15
+TR398,2026-10-25,Holder HP,Accessories,50000,5,CUS109,Bekasi,Bank Transfer,0
+TR399,2026-10-28,Mouse,Electronics,164000,4,CUS030,,,0
+TR400,2026-10-27,Kabel USB,Accessories,47000,1,CUS179,Bandung,Bank Transfer,5
+TR401,2026-10-23,Headphone,Electronics,326000,1,CUS071,,E-Wallet,10
+TR402,2026-09-15,Botol Minum,Home & Living,130000,2,CUS078,Bekasi,E-Wallet,20
+TR403,08-10-2026,Headphone,Electronics,298000,1,CUS027,Makassar,Bank Transfer,15
+TR404,2026-10-12,Mouse Pad,Accessories,43000,1,CUS149,Makassar,,0
+TR405,2026-09-05,Headphone,Electronics,375000,5,CUS152,,Bank Transfer,10
+TR406,2026-09-05,Charger,Electronics,146000,,CUS009,Makassar,Virtual Account,15
+TR407,2026-10-12,Laptop,Electronics,5463000,1,CUS064,Bekasi,Bank Transfer,20
+TR408,19-09-2026,Power Bank,Electronics,333000,1,CUS098,Makassar,Bank Transfer,10
+TR409,15/09/2026,Buku Gambar,Stationery,18000,1,CUS060,Surabaya,E-Wallet,20
+TR410,2026-09-07,Pulpen,Stationery,7000,1,CUS029,Bekasi,Virtual Account,5
+TR411,2026-10-19,Charger,Electronics,115000,2,CUS004,Yogyakarta,Bank Transfer,30
+TR412,2026-10-09,Mouse,Electronics,153000,3,CUS128,Bandung,COD,0
+TR413,2026-10-19,Holder HP,Accessories,91000,1,CUS032,Bandung,Bank Transfer,10
+TR414,2026-10-07,Buku Gambar,Stationery,34000,3,CUS073,Bandung,Bank Transfer,5
+TR415,2026-10-21,Botol Minum,Home & Living,76000,1,CUS023,jakarta,Bank Transfer,20
+TR416,2026-09-28,Headphone,Electronics,300000,1,CUS040,Bogor,Bank Transfer,10
+TR417,2026-10-11,Mouse,Electronics,129000,1,CUS085,Surabaya,Bank Transfer,5
+TR418,2026-09-12,Kabel USB,Accessories,60000,3,CUS055,,E-Wallet,20
+TR419,2026-10-23,Kabel USB,Accessories,44000,1,CUS179,Bandung,,5
+TR420,2026-10-07,Botol Minum,Home & Living,98000,,CUS118,Jakarta,Bank Transfer,20
+TR421,2026-09-09,Mouse,Electronics,88000,2,CUS120,,Bank Transfer,5
+TR422,2026-10-09,Sticky Notes,Stationery,30000,1,CUS012,Surabaya,Virtual Account,10
+TR423,2026-09-18,Headphone,Electronics,238000,2,CUS095,Makassar,E-Wallet,10
+TR424,2026-10-02,Topi,Fashion,129000,1,CUS011,Surabaya,Bank Transfer,10
+TR425,2026-09-20,Speaker Bluetooth,Electronics,239000,2,CUS032,Bandung,E-Wallet,5
+TR426,2026-09-03,Kabel USB,Accessories,59000,1,CUS020,Makassar,Bank Transfer,10
+TR427,27/10/2026,Holder HP,Accessories,50000,3,CUS040,Bogor,E-Wallet,10
+TR428,2026-10-18,Kabel USB,Accessories,55000,2,CUS161,Bogor,Bank Transfer,15
+TR429,2026-09-19,Tas,Fashion,254000,1,CUS095,Makassar,Bank Transfer,5
+TR430,2026-10-16,Topi,Fashion,78000,1,CUS169,Bekasi,Bank Transfer,0
+TR431,2026-10-19,Mouse,Electronics,166000,1,CUS166,Bandung,E-Wallet,15
+TR432,2026-09-22,headphone,Electronics,312000,4,CUS105,Bekasi,Virtual Account,0
+TR433,2026-10-13,Charger,Electronics,124000,2,CUS148,Bogor,E-Wallet,0
+TR434,2026-10-01,Kabel USB,Accessories,47000,4,CUS049,Surabaya,E-Wallet,15
+TR435,2026-10-23,Pulpen,Stationery,9000,1,CUS035,Bandung,,5
+TR436,2026-10-08,headphone,Electronics,308000,1,CUS065,Bekasi,COD,0
+TR437,2026-10-17,Kaos,Fashion,90000,5,CUS039,Surabaya,E-Wallet,15
+TR438,2026-09-21,Mouse,Electronics,99000,2,CUS138,Bandung,Bank Transfer,0
+TR439,2026-10-05,Speaker Bluetooth,Electronics,322000,1,CUS031,,E-Wallet,5
+TR440,18/10/2026,Mug,Home & Living,84000,1,CUS173,Surabaya,E-Wallet,20
+TR397,17-09-2026,Notebook,Stationery,40000,1,CUS084,Jakarta,Virtual Account,15
+TR441,10/10/2026,Botol Minum,Home & Living,95000,1,CUS132,Surabaya,Virtual Account,0
+TR442,2026-09-04,Kabel USB,Accessories,52000,2,CUS027,Makassar,Bank Transfer,0
+TR443,2026-09-30,Botol Minum,Home & Living,138000,1,CUS036,Surabaya,E-Wallet,15
+TR444,2026-09-06,Mouse,Electronics,128000,1,CUS042,Bogor,Bank Transfer,5
+TR445,2026-10-15,Charger,Electronics,140000,3,CUS056,Jakarta,Virtual Account,15
+TR446,2026-10-25,Kotak Penyimpanan,Home & Living,124000,2,CUS173,Surabaya,Virtual Account,5
+TR447,2026-09-10,Dompet,Fashion,173000,4,CUS108,Makassar,Bank Transfer,5
+TR448,2026-09-27,Speaker Bluetooth,Electronics,406000,1,CUS129,Jakarta,Bank Transfer,0
+TR449,2026-10-14,Pulpen,Stationery,10000,3,CUS106,Denpasar,E-Wallet,10
+TR450,2026-10-16,Notebook,Stationery,54000,1,CUS152,,Bank Transfer,5
+TR451,2026-09-16,Tas,Fashion,4800000,2,CUS093,Bekasi,Bank Transfer,15
+TR452,2026-09-26,Kabel USB,Accessories,47000,2,CUS060,Surabaya,E-Wallet,20
+TR453,2026-09-08,Tas,Fashion,194000,1,CUS080,Yogyakarta,E-Wallet,5
+TR454,25-09-2026,Kabel HDMI,Accessories,100000,,CUS038,,E-Wallet,10
+TR455,2026-10-30,Lampu Meja,Home & Living,126000,1,CUS008,Bandung,Bank Transfer,10
+TR456,2026-09-01,Mouse,Electronics,203000,1,CUS007,Bandung,Bank Transfer,15
+TR457,2026-10-20,Botol Minum,Home & Living,58000,1,CUS084,Jakarta,Virtual Account,0
+TR458,2026-10-28,Charger,Electronics,125000,1,CUS046,Bekasi,Bank Transfer,0
+TR459,2026-09-19,Headphone,Electronics,275000,1,CUS073,Bandung,E-Wallet,10
+TR460,2026-10-08,Headphone,Electronics,376000,1,CUS021,Surabaya,E-Wallet,15
+TR461,2026-10-27,Mouse Pad,Accessories,41000,1,CUS134,Bekasi,Bank Transfer,10
+TR462,2026-10-30,Notebook,Stationery,34000,1,CUS059,Jakarta,E-Wallet,0
+TR463,01/10/2026,Kotak Penyimpanan,Home & Living,83000,2,CUS025,Denpasar,Bank Transfer,5
+TR464,2026-10-22,Speaker Bluetooth,Electronics,389000,1,CUS040,Bogor,Bank Transfer,0
+TR465,11/10/2026,Kabel HDMI,Accessories,99000,1,CUS153,jakarta,Virtual Account,0
+TR466,2026-10-25,Mouse,Electronics,171000,1,CUS123,Jakarta,E-Wallet,10
+TR467,2026-10-19,Botol Minum,Home & Living,77000,1,CUS097,Yogyakarta,Bank Transfer,5
+TR468,06-10-2026,Mouse,Electronics,160000,1,CUS107,Denpasar,Bank Transfer,5
+TR469,2026-09-28,Mouse Pad,Accessories,66000,2,CUS156,Bogor,Virtual Account,0
+TR470,2026-10-10,Topi,Fashion,75000,1,CUS160,Bekasi,E-Wallet,5
+TR471,27/09/2026,Headphone,Electronics,316000,1,CUS072,Denpasar,COD,15
+TR472,2026-10-30,Kaos,Fashion,150000,2,CUS079,Bekasi,E-Wallet,10
+TR473,2026-09-07,Mouse Pad,Accessories,63000,1,CUS134,Bekasi,E-Wallet,30
+TR474,2026-10-10,Keyboard,Electronics,175000,,CUS043,Bandung,,5
+TR475,18/09/2026,Mug,Home & Living,70000,1,CUS006,Jakarta,E-Wallet,15
+TR476,2026-09-27,Sticky Notes,Stationery,24000,2,CUS132,Surabaya,COD,0
+TR477,2026-10-19,Pulpen,Stationery,13000,5,CUS094,Makassar,Bank Transfer,15
+TR478,2026-09-03,Topi,Fashion,97000,1,CUS152,,Virtual Account,5
+TR479,2026-10-22,Kabel USB,Accessories,46000,1,CUS069,Bekasi,Bank Transfer,10
+TR480,2026-10-08,Buku Gambar,Stationery,28000,1,CUS022,Surabaya,Bank Transfer,15
+TR481,2026-10-30,Pulpen,Stationery,14000,5,CUS044,Bekasi,E-Wallet,10
+TR482,2026-10-11,Kotak Penyimpanan,Home & Living,147000,1,CUS164,Jakarta,E-Wallet,0
+TR483,2026-09-03,Sticky Notes,Stationery,17000,1,CUS123,Jakarta,Virtual Account,5
+TR484,2026-10-15,Headphone,Electronics,216000,5,CUS157,Bogor,COD,5
+TR485,2026-09-15,Kotak Penyimpanan,Home & Living,94000,2,CUS037,Bandung,Bank Transfer,15
+TR486,2026-09-04,Mouse Pad,Accessories,32000,3,CUS155,Jakarta,E-Wallet,15
+TR487,2026-10-07,Speaker Bluetooth,Electronics,422000,,CUS027,Makassar,E-Wallet,0
+TR488,2026-09-23,Speaker Bluetooth,Electronics,420000,1,CUS141,Bekasi,COD,0
+TR489,2026-09-19,Notebook,Stationery,52000,1,CUS007,Bandung,E-Wallet,0
+TR490,2026-10-10,Holder HP,Accessories,78000,1,CUS092,Bekasi,COD,0
